@@ -1,0 +1,44 @@
+body{
+    display: grid;
+    grid-template: auto auto auto / 1fr 1fr 1fr 1fr
+}
+
+.dropdown{
+    grid-area: 1 / 1 / 2 / 2;
+}
+
+#nyhet{
+    grid-area: 3 / 1 / 4 / 4;
+}
+
+h2{
+    grid-area: 2 / 2 / 3 / 4;
+}
+
+
+
+
+#hamburgare{
+    grid-area: 2 / 1 / 3 / 3;
+}
+
+#kycklingfisk{
+    grid-area: 2 / 3 / 3 / 5;
+}
+
+#vegetariskt{
+    grid-area: 3 / 1 / 4 / 3;
+}
+
+#tillbehör{
+    grid-area: 3 / 3 / 4 / 5;
+}
+
+#desserter{
+    grid-area: 4 / 1 / 5 / 3;
+}
+
+#drycker{
+    grid-area: 4 / 3 / 5 / 5;
+}
+
