@@ -10,7 +10,7 @@
     margin-top: 10px;
 }
 
-#swish{
+#swish, #deals{
     width: 100%;
 }
 
@@ -25,6 +25,7 @@ h2{
 h3{
     font-size: 35px;
 }
+
 
 .dropdown-content{
     display: none;
@@ -41,6 +42,8 @@ h3{
 .dropdown-content a {
     color: black;
     padding: 12px 16px;
+    background-color: white;
+    border-color: black;
     text-decoration: none;
     display: block;
   }
@@ -48,3 +51,17 @@ h3{
 .meny img{
     width: 60%;
 }
+
+#karta{
+    width: 100%;
+}
+
+.omvårmat img{
+    width: 100%;
+}
+
+#myDropdown a{
+    font-size: 40px;
+}
+
+
