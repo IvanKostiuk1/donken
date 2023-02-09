@@ -11,7 +11,7 @@
     margin-top: 10px;
 }
 
-#swish, #deals, #frågor img{
+#swish, #deals, #fragor img{
     width: 100%;
 }
 
@@ -66,7 +66,7 @@ h2, h3, p{
     width: 100%;
 }
 
-.omvårmat img{
+.omvarmat img{
     width: 100%;
 }
 
@@ -83,6 +83,6 @@ li{
     padding: 10px;
 }
 
-#nyheter img, .omvårmat img, #frågor img{
+#nyheter img, .omvarmat img, #fragor img{
     padding-top: 5%;
 }
